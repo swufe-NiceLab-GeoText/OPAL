@@ -14,6 +14,7 @@ We use semi-synthetic multimodal datasets constructed from Weibo:
 - LFC (Fallen City)
 - NZ (Nezha)
 - TGD2 (Special Forces 2)
+  
 We commit to making all data publicly available upon the acceptance of the paper.
 ## Project Structure
 
